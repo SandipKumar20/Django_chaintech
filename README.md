@@ -1,0 +1,1 @@
+# A django website consisting of two webpages. The home page displays the current time and a random quote, it also contains a form which has two input fields Name and Email. The data in the form gets stored in the database once you click the submit button. The second webpage displays all the submitted entries in the form.
